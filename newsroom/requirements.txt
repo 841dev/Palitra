@@ -1,0 +1,12 @@
+annotated-types==0.6.0
+asgiref==3.7.2
+Django==4.2.11
+django-admin-sortable2==2.1.10
+django-ninja==1.1.0
+django-tinymce==3.7.1
+jsmin==3.0.1
+pillow==10.2.0
+pydantic==2.6.4
+pydantic_core==2.16.3
+sqlparse==0.4.4
+typing_extensions==4.10.0
